@@ -1,12 +1,13 @@
-* Martial Arts
-  * John Danaher
-* Law
-  * Richard Epstein
 * Economics
   * Brad Setzer
-* Terminal Ballistics
-  * Martin Fackler
 * Investment
   * Warren Buffett
+* Law
+  * Richard Epstein
+* Martial Arts
+  * John Danaher
+  * Firas Zahabi
 * Software Develoment
   * Rich Hickey
+* Terminal Ballistics
+  * Martin Fackler
