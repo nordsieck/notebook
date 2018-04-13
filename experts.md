@@ -5,8 +5,9 @@
 * Law
   * Richard Epstein
 * Martial Arts
-  * John Danaher
   * Firas Zahabi
+  * John Danaher
+  * Rory Miller
 * Software Develoment
   * Rich Hickey
 * Terminal Ballistics
